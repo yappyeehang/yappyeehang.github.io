@@ -224,7 +224,7 @@ const typewriterEl = document.getElementById('typewriter');
 if (typewriterEl) {
   const words = [
     'Yapp Yee Hang',
-    'a Fresh Graduate Software Enginner',
+    'a Fresh Graduate Software Engineer',
   ];
 
   let wordIndex = 0;
